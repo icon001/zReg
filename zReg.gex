@@ -1,0 +1,6 @@
+[General]
+Name=zReg
+Project=1
+[Classes]
+Count=1
+Class0="TMainForm","TForm","uMain","0","D:\_Project2006\관제포함등록 프로그램(APRO)\uMain.pas"

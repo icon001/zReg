@@ -1,0 +1,25 @@
+MAINICON ICON "D:\_project\LOMOS\등록 프로그램(APRO)\mainicon.ico"
+1 VERSIONINFO
+FILEVERSION 0,2,2,4
+PRODUCTVERSION 0,2,2,4
+FILEFLAGSMASK 0x3FL
+FILEFLAGS 0x00L
+FILEOS 0x40004L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+         BLOCK "440A03B5"
+         BEGIN
+              VALUE "ProductVersion", "\0"
+              VALUE "FileDescription", "제론시스템 장비 등록 프로그램\0"
+              VALUE "FileVersion", "0.2.2.4\0"
+              VALUE "Compile Date", "2004년 12월 29일 수요일 오후 1:30\0"
+         END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+         VALUE "Translation", 0x440A, 949
+    END
+END
